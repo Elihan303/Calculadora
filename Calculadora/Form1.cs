@@ -152,5 +152,11 @@ namespace Calculadora
             num1 = Convert.ToDouble(TextDisplay.Text);
             TextDisplay.Text = "";
         }
+
+        private void btnPunto_Click(object sender, EventArgs e)
+        {
+            //botonPunto
+            TextDisplay.Text =  TextDisplay.Text + "."  ;
+        }
     }
 }
