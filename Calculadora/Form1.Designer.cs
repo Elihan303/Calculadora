@@ -66,6 +66,7 @@ namespace Calculadora
             // 
             // btnDividir
             // 
+            this.btnDividir.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDividir.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDividir.Location = new System.Drawing.Point(179, 58);
             this.btnDividir.Name = "btnDividir";
@@ -77,6 +78,7 @@ namespace Calculadora
             // 
             // btnMultiplicar
             // 
+            this.btnMultiplicar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnMultiplicar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMultiplicar.Location = new System.Drawing.Point(123, 58);
             this.btnMultiplicar.Name = "btnMultiplicar";
@@ -88,6 +90,7 @@ namespace Calculadora
             // 
             // btnResta
             // 
+            this.btnResta.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnResta.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnResta.Location = new System.Drawing.Point(67, 58);
             this.btnResta.Name = "btnResta";
@@ -99,6 +102,7 @@ namespace Calculadora
             // 
             // btnSiete
             // 
+            this.btnSiete.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnSiete.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSiete.Location = new System.Drawing.Point(11, 114);
             this.btnSiete.Name = "btnSiete";
@@ -110,6 +114,7 @@ namespace Calculadora
             // 
             // btnOcho
             // 
+            this.btnOcho.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnOcho.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOcho.Location = new System.Drawing.Point(68, 114);
             this.btnOcho.Name = "btnOcho";
@@ -121,6 +126,7 @@ namespace Calculadora
             // 
             // btnNueve
             // 
+            this.btnNueve.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnNueve.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNueve.Location = new System.Drawing.Point(123, 114);
             this.btnNueve.Name = "btnNueve";
@@ -132,6 +138,7 @@ namespace Calculadora
             // 
             // btnCuatro
             // 
+            this.btnCuatro.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCuatro.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCuatro.Location = new System.Drawing.Point(12, 170);
             this.btnCuatro.Name = "btnCuatro";
@@ -143,6 +150,7 @@ namespace Calculadora
             // 
             // btnCinco
             // 
+            this.btnCinco.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCinco.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCinco.Location = new System.Drawing.Point(68, 170);
             this.btnCinco.Name = "btnCinco";
@@ -154,6 +162,7 @@ namespace Calculadora
             // 
             // btnSeis
             // 
+            this.btnSeis.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnSeis.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSeis.Location = new System.Drawing.Point(124, 170);
             this.btnSeis.Name = "btnSeis";
@@ -165,6 +174,7 @@ namespace Calculadora
             // 
             // btnUno
             // 
+            this.btnUno.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnUno.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUno.Location = new System.Drawing.Point(11, 226);
             this.btnUno.Name = "btnUno";
@@ -176,6 +186,7 @@ namespace Calculadora
             // 
             // btnDos
             // 
+            this.btnDos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDos.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDos.Location = new System.Drawing.Point(67, 226);
             this.btnDos.Name = "btnDos";
@@ -187,6 +198,7 @@ namespace Calculadora
             // 
             // btnTres
             // 
+            this.btnTres.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnTres.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTres.Location = new System.Drawing.Point(124, 226);
             this.btnTres.Name = "btnTres";
@@ -198,6 +210,7 @@ namespace Calculadora
             // 
             // btnPunto
             // 
+            this.btnPunto.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnPunto.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPunto.Location = new System.Drawing.Point(124, 282);
             this.btnPunto.Name = "btnPunto";
@@ -209,6 +222,7 @@ namespace Calculadora
             // 
             // btnCero
             // 
+            this.btnCero.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCero.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCero.Location = new System.Drawing.Point(12, 282);
             this.btnCero.Name = "btnCero";
@@ -220,6 +234,7 @@ namespace Calculadora
             // 
             // btnIgual
             // 
+            this.btnIgual.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnIgual.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIgual.Location = new System.Drawing.Point(179, 226);
             this.btnIgual.Name = "btnIgual";
@@ -231,6 +246,7 @@ namespace Calculadora
             // 
             // btnSuma
             // 
+            this.btnSuma.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnSuma.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSuma.Location = new System.Drawing.Point(12, 58);
             this.btnSuma.Name = "btnSuma";
@@ -242,6 +258,7 @@ namespace Calculadora
             // 
             // btnClear
             // 
+            this.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClear.Location = new System.Drawing.Point(179, 114);
             this.btnClear.Name = "btnClear";
@@ -253,6 +270,7 @@ namespace Calculadora
             // 
             // BorrarUno
             // 
+            this.BorrarUno.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.BorrarUno.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BorrarUno.Location = new System.Drawing.Point(179, 170);
             this.BorrarUno.Name = "BorrarUno";
