@@ -158,5 +158,17 @@ namespace Calculadora
             //botonPunto
             TextDisplay.Text =  TextDisplay.Text + "."  ;
         }
+
+        private void BorrarUno_Click(object sender, EventArgs e)
+        {
+            if (TextDisplay.Text.Length > 1)
+            {
+                TextDisplay.Text = TextDisplay.Text.Substring(0, TextDisplay.Text.Length - 1);
+            }
+            else
+            {
+                TextDisplay.Clear();
+            }
+        }
     }
 }
